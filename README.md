@@ -1,5 +1,7 @@
 <img width="1584" height="396" alt="banner linkedin" src="https://github.com/user-attachments/assets/7013e917-43e3-415e-9f54-f55cce95c647" />
 
+
+
 PT-BR - Bem vindo(a)! Sou Marianna Pereira Rodrigues.
 
 Desenvolvedora de Software Full Stack, com mais de 2 anos de experiência prática no desenvolvimento de aplicações web e desktop, APIs RESTful, integração de sistemas e automação de processos corporativos.
@@ -94,7 +96,7 @@ Tecnologias: Python · FastAPI · React ·  PostgreSQL · Zabbix · NetBox
 
 Solução voltada à integração de ferramentas de infraestrutura com NetBox, centralização de informações e acompanhamento operacional.
 
-Tecnologias: JavaScript · APIs  · NetBox
+Tecnologias: JavaScript · APIs  · NetBox · Node.js
 
 
 
