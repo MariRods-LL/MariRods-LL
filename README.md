@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="banner linkedin" src="https://github.com/user-attachments/assets/7013e917-43e3-415e-9f54-f55cce95c647" />
+
 PT-BR - Bem vindo(a)! Sou Marianna Pereira Rodrigues.
 
 Desenvolvedora de Software Full Stack, com mais de 2 anos de experiência prática no desenvolvimento de aplicações web e desktop, APIs RESTful, integração de sistemas e automação de processos corporativos.
@@ -80,11 +82,12 @@ Experiência no desenvolvimento de aplicações utilizando C# e .NET, incluindo 
 Aqui estão alguns dos projetos que representam minha experiência e evolução como desenvolvedora.
 
 Substitua os exemplos abaixo pelos nomes e links dos seus repositórios reais.
+
 🔹 Aplicação Full Stack
 
 Aplicação web com frontend, backend e banco de dados, desenvolvida para atender necessidades de gestão e integração de informações vindas de APIs de Zabbix e Netbox.
 
-Tecnologias: Python · FastAPI · React ·  · PostgreSQL · Zabbix · NetBox
+Tecnologias: Python · FastAPI · React ·  PostgreSQL · Zabbix · NetBox
 
 
 🔹 Sistema de integração e monitoramento
@@ -106,8 +109,9 @@ Experiência do usuário e arquitetura frontend.
 
 Estou aberta a conexões, oportunidades profissionais e projetos relacionados ao desenvolvimento de software.
 
+
 💼 LinkedIn: www.linkedin.com/in/marianna-pereira-rodrigues-707769281
+
 📧 E-mail: mariannarodrigues188@gmail.com
 
 
-Transformando ideias em soluções através da tecnologia. 💻
