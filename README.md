@@ -7,35 +7,46 @@ Tenho interesse em construir soluções tecnológicas eficientes, escaláveis e 
 Atualmente, trabalho com tecnologias como Python, FastAPI, React, JavaScript, PostgreSQL, C# e .NET, explorando também ferramentas de conteinerização, monitoramento e integração de sistemas.
 
 🖥️ Sobre mim
+
 💻 Desenvolvedora de Software Full Stack.
+
 🚀 Experiência no desenvolvimento de aplicações web e desktop.
+
 🔌 Desenvolvimento e integração de APIs RESTful.
+
 🗄️ Modelagem, manipulação e gerenciamento de bancos de dados.
+
 📊 Integração com ferramentas de monitoramento e gerenciamento de infraestrutura.
+
 🐳 Conhecimentos em Docker e ambientes conteinerizados.
+
 🎨 Desenvolvimento de interfaces interativas e componentes reutilizáveis.
+
 🔍 Interesse em qualidade de código, refatoração, segurança e boas práticas de desenvolvimento.
+
 🤖 Utilização de ferramentas de IA, como OpenAI Codex e Claude, para apoiar o desenvolvimento e a análise de código.
+
 ⚙️ Tecnologias e ferramentas
+
 Linguagens de programação
 
-!Python !JavaScript !CSharp
+Python | JavaScript | CS#
 
 Frontend
 
-!React !HTML5 !CSS3
+React.js | HTML5/CSS
 
 Backend
 
-!FastAPI !.NET
+Node.js | FastAPI | .NET
 
 Banco de dados
 
-!PostgreSQL
+MicrosoftSQL Server | PostgreSQL
 
 Infraestrutura e ferramentas
 
-!Docker !Git !GitHub !Zabbix
+Docker | Git/GitHub | Zabbix
 
 Ferramentas de desenvolvimento
 VS Code
