@@ -6,13 +6,13 @@ PT-BR - Bem vindo(a)! Sou Marianna Pereira Rodrigues.
 
 Desenvolvedora de Software Full Stack, com mais de 2 anos de experiência prática no desenvolvimento de aplicações web e desktop, APIs RESTful, integração de sistemas e automação de processos corporativos.
 
-Tenho interesse em construir soluções tecnológicas eficientes, escaláveis e bem estruturadas, conectando frontend, backend e infraestrutura para resolver problemas reais.
+Realizo soluções tecnológicas eficientes, escaláveis e bem estruturadas, conectando frontend, backend e infraestrutura para resolver problemas reais.
 
-Atualmente, trabalho com tecnologias como Python, FastAPI, React, JavaScript, PostgreSQL, C# e .NET, explorando também ferramentas de conteinerização, monitoramento e integração de sistemas.
+Atualmente, trabalho com tecnologias como Python, FastAPI, React, JavaScript, PostgreSQL, C# e .NET.
 
 🖥️ Sobre mim
 
-💻 Desenvolvedora de Software Full Stack.
+
 
 🚀 Experiência no desenvolvimento de aplicações web e desktop.
 
@@ -57,6 +57,7 @@ VS Code
 Visual Studio
 OpenAI Codex
 Claude
+
 🚀 Experiência e áreas de atuação
 
 Desenvolvimento Full Stack
