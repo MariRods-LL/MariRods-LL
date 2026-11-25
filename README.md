@@ -103,7 +103,7 @@ Aplicação web com frontend, backend e banco de dados, desenvolvida para atende
 Tecnologias: Python · FastAPI · React ·  PostgreSQL · Zabbix · NetBox
 
 
-### 🔹 Sistema de integração e monitoramento
+### 🔹 Netbox API Dashboard - Sistema de integração e monitoramento
 
 Solução voltada à integração de ferramentas de infraestrutura com NetBox, centralização de informações e acompanhamento operacional.
 
